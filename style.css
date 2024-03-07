@@ -283,7 +283,7 @@ section {
   display: flex;
 }
 
-.about-pic {
+.coding {
   border-radius: 2rem;
 }
 
@@ -420,11 +420,15 @@ article .icon {
   height: 2.5rem;
 }
 
+.phone-icon {
+  height: 2rem;
+}
+
 /* FOOTER SECTION */
 
 footer {
   height: 26vh;
-  margin: 0 1rem;
+  margin: 0 1rem; 
 }
 
 footer p {
